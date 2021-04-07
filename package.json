@@ -34,16 +34,16 @@
     "storybook-addon-next-router": "^2.0.4",
     "storycap": "^3.0.3",
     "tailwindcss": "^2.0.3",
-    "swr": "^0.3.8",
-    "xss": "^1.0.8"
-  },
-  "devDependencies": {
-    "@babel/cli": "^7.10.5",
     "react-uuid": "^1.0.2",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-hot-loader": "^4.13.0",
     "next": "^10.0.3",
+    "swr": "^0.3.8",
+    "xss": "^1.0.8"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
     "@babel/core": "^7.11.0",
     "@babel/eslint-parser": "^7.13.14",
     "@babel/node": "^7.10.5",
